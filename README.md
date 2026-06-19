@@ -30,4 +30,7 @@ Heute habe ich mein GitHub-Profil erweitert und ein LinkedIn-Profil erstellt, um
 - [x] Buttons schöner machen
 - [x] Raketen-Bereich verbessern
 
+
+Heute habe ich die Entwicklung meines Spiels Space Clicker weitergeführt und mehrere neue Funktionen eingebaut. Zunächst wurde das Design der App deutlich verbessert, indem ein Weltraum-Hintergrund, Sterne sowie ein moderneres Layout hinzugefügt wurden. Anschliessend wurde der Raketenbereich überarbeitet und mit einem grösseren Raketen-Element sowie einem Klick-Effekt versehen. Zudem wurden die Upgrade-Buttons optisch verbessert und übersichtlicher gestaltet. Als neue Spielfunktion habe ich ein passives Einkommen integriert, sodass der Spieler nun automatisch Punkte pro Sekunde verdienen kann. Während der Entwicklung wurden verschiedene Fehler behoben und die App mehrfach getestet, bis alle neuen Funktionen korrekt funktionierten. Dadurch wirkt das Spiel nun deutlich professioneller und bietet mehr Spieltiefe als die erste Version.
+
 <img width="407" height="861" alt="image" src="https://github.com/user-attachments/assets/829fdaf8-c785-4efb-9111-61ba5975992e" />
