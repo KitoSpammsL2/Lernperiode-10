@@ -21,3 +21,13 @@ Heute habe ich mit der Entwicklung meines Projekts Space Clicker in Kotlin begon
 
 
 Heute habe ich mein GitHub-Profil erweitert und ein LinkedIn-Profil erstellt, um meine bisherigen Projekte, Kenntnisse und beruflichen Interessen professionell zu präsentieren. Anschliessend habe ich zwei Bewerbungen verfasst und dabei auf eine individuelle und überzeugende Gestaltung geachtet. Zudem habe ich zu zwei Bewerbungen Feedback geschrieben, wobei ich sowohl positive Aspekte hervorgehoben als auch konkrete Verbesserungsvorschläge formuliert habe. Dadurch konnte ich meine Kenntnisse im Bereich Bewerbungen und professionelle Kommunikation weiter vertiefen.
+
+
+## 19.06.2026
+
+- [x] Passives Einkommen
+- [x] Space-Hintergrund verbessern
+- [x] Buttons schöner machen
+- [x] Raketen-Bereich verbessern
+
+<img width="407" height="861" alt="image" src="https://github.com/user-attachments/assets/829fdaf8-c785-4efb-9111-61ba5975992e" />
